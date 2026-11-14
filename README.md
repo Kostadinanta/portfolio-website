@@ -1,5 +1,5 @@
-##
-Hello, and welcome to my personal portfolio website.
+## Hi there.
+Hello, and welcome to my personal portfolio website. This website is only meant to be used for UKM IRC Applications.
 
 ## React + Vite
 
