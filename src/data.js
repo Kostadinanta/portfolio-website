@@ -20,6 +20,7 @@ export const skills = [
   "JavaScript",
   "Go",
   "JSON",
+  "Python"
 ];
 
 export const experiences = [
